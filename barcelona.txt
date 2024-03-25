@@ -1,2 +1,10 @@
-repülő 152.430Ft
-13:25
+repülő szombat 13:40 Madridbol Barcelonaba érkezés 14:55
+taxi a hotelbe:
+                hotel neve: Ohla Barcelona 1éjszaka 202.000HUF
+                hotelt átvesszük a programok:
+                                            Moco museum 8k/fő
+                                            La Sagrada Família bazilika 10k/fő
+                                            Güell park 4k
+                                            Catedral of barcelona
+                                            Kaja Mcdonalds
+
