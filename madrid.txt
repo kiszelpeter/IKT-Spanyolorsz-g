@@ -1,10 +1,17 @@
 1. megálló: Madrid
+            repülők:200.000Ft
+            indulás:07.05. 10:30-13:50
+                    indulás Barcelonába-13:40
+            
+            érkezés:07.09. 18:20-23:50
+
+
             Szállás:https://www.booking.com/hotel/es/nhlahabana.hu.html?aid=356980&label=gog235jc-1DCAsoRkIKbmhsYWhhYmFuYUgzWANoZ4gBAZgBEbgBF8gBDNgBA-gBAYgCAagCA7gC-eiFsAbAAgHSAiRhNDc2NGFjOC1lNWZkLTQzYmMtODY3My0yMTg2ZWYyZWI5ZTfYAgTgAgE&sid=8a7371d654815abe54c2a4ad1e8252dd&dist=0&keep_landing=1&sb_price_type=total&type=total&
 
             Programok:
             1. Estadio Santiago Bernabeu-Real Madrid meccs
             2. Reina Sófia Múzeum
-            3. Circullo de Bella Artes
+            3. Circullo de Bella Artes bár
             4.
 
             
