@@ -9,3 +9,11 @@ body{
     background-color: darkgray;
     color: azure;
     font-family:sans-serif ;}
+
+#cim{
+    text-align: center;
+}
+
+.kis{
+    font-size: 20px;
+}
