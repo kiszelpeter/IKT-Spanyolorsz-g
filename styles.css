@@ -10,12 +10,8 @@ body{
     color: azure;
     font-family: sans-serif ;}
 
-#cim1{
-    
-}
-#cim2{
 
-}
+
 h2{
     color: lavender;
 }
@@ -25,5 +21,9 @@ h4{
 }
 
 .fels{
-    margin-left: 110px;
+    margin-left: 90px;
+    background-color: grey;
+    border-radius: 20px;
+    
+    
 }
