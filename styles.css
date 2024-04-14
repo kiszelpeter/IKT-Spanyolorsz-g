@@ -27,3 +27,15 @@ img{
     
     
 }
+#cim{
+    background-color: gray;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid lightgrey;
+    margin: auto;
+}
+
+#cimmarg{
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
