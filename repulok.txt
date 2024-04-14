@@ -1,0 +1,5 @@
+Budapest 13:45 ----> Madrid 17:15 repulo
+Madrid 20:00 ----> Barcelona 21:20 repulo
+Barcelona 18:15 ----> Valencia 21:07 vonat
+Valencia 22:00 ----> Ibiza 04:15 hajó
+Ibiza 15:40 ----> Madrid 17:00 | Madrid 20:15 ----> Budapest 23:30 repulo
