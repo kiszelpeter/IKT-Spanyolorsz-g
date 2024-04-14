@@ -8,12 +8,22 @@ header{
 body{
     background-color: darkgray;
     color: azure;
-    font-family:sans-serif ;}
+    font-family: sans-serif ;}
 
-#cim{
-    text-align: center;
+#cim1{
+    
+}
+#cim2{
+
+}
+h2{
+    color: lavender;
 }
 
-.kis{
-    font-size: 20px;
+h4{
+    margin-left: 15px;
+}
+
+.fels{
+    margin-left: 110px;
 }
